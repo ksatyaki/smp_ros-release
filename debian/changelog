@@ -1,0 +1,8 @@
+ros-kinetic-smp-ros (1.0.1-0xenial) xenial; urgency=high
+
+  * Add mrpt as a dependency in package.xml
+  * Contributors: Chittaranjan Swaminathan
+
+ -- Chittaranjan Srinivas Swaminathan <chittaranjan.swaminathan@oru.se>  Mon, 28 May 2018 22:00:00 -0000
+
+
